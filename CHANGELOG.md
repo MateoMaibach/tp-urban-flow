@@ -37,3 +37,12 @@
 - Cálculo del exceso promedio de velocidad.
 - Cálculo del exceso real promedio de velocidad.
 - Conteo de multas por ubicación.
+
+
+## Día 5
+
+- Generación del gráfico de las 10 patentes más reincidentes.
+- Generación del gráfico de porcentaje de infracciones por hora.
+- Generación del gráfico de infracciones por mes.
+- Generación del gráfico de excesos de velocidad agrupados por hora.
+- Generación del gráfico de excesos de velocidad agrupados por fecha.
