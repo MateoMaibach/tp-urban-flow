@@ -46,3 +46,9 @@
 - Generación del gráfico de infracciones por mes.
 - Generación del gráfico de excesos de velocidad agrupados por hora.
 - Generación del gráfico de excesos de velocidad agrupados por fecha.
+
+
+## Día 6
+
+- Cálculo del porcentaje de infracciones con fecha 1932-01-01.
+- Cálculo del porcentaje de infracciones con hora 00:00.
