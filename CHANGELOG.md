@@ -27,3 +27,13 @@
 - Normalización de la columna hora al formato de 24 horas.
 - Reemplazo de horas inválidas por 00:00.
 - Normalización de la columna ubicacion eliminando caracteres especiales y convirtiendo a mayúsculas.
+
+
+## Día 4
+
+- Implementación de la clase FineAnalyzer.
+- Ranking de las 5 patentes más multadas.
+- Ranking de los 5 horarios con mayor cantidad de multas.
+- Cálculo del exceso promedio de velocidad.
+- Cálculo del exceso real promedio de velocidad.
+- Conteo de multas por ubicación.
